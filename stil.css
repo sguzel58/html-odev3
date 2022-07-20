@@ -1,0 +1,9 @@
+body{background-color: #e0c9a9}
+h1{color: #602710;}
+.content{width: 70%; float: right;}
+.content-head{margin-left: 2rem;}
+.content-head span{text-decoration: underline; margin-left: 1rem;}
+.title{color: #b55521;}
+.head{margin-top: 1rem;}
+.head span{background-color:#963102 ; color: #fff;border-radius: 50px; font-weight: 500; }
+h3{float: right; width: 50%; color: #3f201b; font-family: 'Roboto Mono', monospace;}
